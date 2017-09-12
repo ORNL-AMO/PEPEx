@@ -1,6 +1,6 @@
 # PEPEx
 Plant Energy Profiler - Excel Version Tool
-The Plant Energy Profiler Excel, or PEPEx , is an excel based software tool provided by the U.S. Department of Energy to help industrial plant managers in the United States identify how energy is being purchased and consumed at their plant and identify potential energy and cost savings. PEPEx is designed so that the users can complete a plant profile in about an hour. PEPEx provides users with a customized, printable report that shows the details of energy purchases, how energy is consumed, potential cost and energy savings, and a list of next steps that can be followed to save energy.
+The Plant Energy Profiler Excel, or PEPEx , is an Excel based software tool provided by the U.S. Department of Energy to help industrial plant managers in the United States identify how energy is being purchased and consumed at their plant and identify potential energy and cost savings. PEPEx is designed so that the users can complete a plant profile in about an hour. PEPEx provides users with a customized, printable report that shows the details of energy purchases, how energy is consumed, potential cost and energy savings, and a list of next steps that can be followed to save energy.
 
 ## Release Information
 PEPEx (an excel version of ePEP) was released on March 9, 2017. The Excel version includes an improved user interface, streamlined data entry process, an improved report page and the ability to input data and display results in users preferred units.
