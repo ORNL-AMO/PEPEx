@@ -11,7 +11,7 @@ This tool is a Microsoft Excel based tool that can be run locally on a computer.
 * Microsoft Office Suite 2007 or newer.
 
 ## Tools and Resources
-* [Official Webpage - Department of Energy, Office of Energy Efficiency and Renewal Energy](https://energy.gov/eere/amo/downloads/plant-energy-profiler-excel)
+* [Official Webpage - Department of Energy, Office of Energy Efficiency and Renewable Energy](https://energy.gov/eere/amo/downloads/plant-energy-profiler-excel)
 * [PEPEx Download](https://github.com/ORNL-AMO/PEPEx/releases/download/v1.0.1/PEPEx.Tool.xlsm)
 * [PEPEx Algorithm Document](https://github.com/ORNL-AMO/PEPEx/releases/download/v1.0.1/PEPEx.Algorithm.v1.01.docx)
 * [PEPEx Tutorial](https://github.com/ORNL-AMO/PEPEx/releases/download/v1.0.1/PEPEx.Tutorial.pdf)
